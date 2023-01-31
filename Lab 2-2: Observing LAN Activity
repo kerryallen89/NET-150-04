@@ -1,0 +1,8 @@
+Lab 2-2: Observing LAN Activity
+
+Summary:
+- In this lab, I pinged my Default Gateway address and a website called 'www.timeslive.co.za' and recorded their Source and Destination MAC addresses using Wireshark in the Kali Terminal (as well as the IPv4 of the website ONLY!)
+
+Other Questions:
+- Commands I used in this lab included 'ip route show' which got my default gateway address, 'ping 10.0.16.2', and 'ping www.timeslive.co.za' 
+- Only problem I ran into was leaving the ping going on for a bit until I knew how to stop it which was using 'Ctrl + c'
