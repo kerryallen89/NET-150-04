@@ -1,0 +1,23 @@
+Local Area Network
+< Remember - a LAN allows connections of devices on the same local network
+- LANs have evolved from using a linear bus to a "Star Bus" which realy took the linear model and put it in a Star Form with hubs. Any connection coming from the Hub will be broadcasted. 
+
+Switch Lookup Tables
+- Switches store MAC address and Port information in a table
+- Different Names for Table
+    - CAM Table
+    - MAC Table
+    - Lookup Table
+    
+How do switches build tables
+- Learn address by watching Packets
+- When swithc is first turned on. It acts like a hub until the table is built. 
+
+Hubs versus Switches
+- Ethernet Hubs (almost obsolete)
+- Ethernet Switches (recomended)
+
+ARP Protocols:
+- They are broadcasted (they need to be given to everybody to know where it is needs to go)
+    - For example, if you were to ask who is Aiden, everyone will look but Aiden will answer. So next time you ask for aiden, you can go directly do him next time. 
+- IP address will be all 0s in binary (16 bits -> 16 0s)
