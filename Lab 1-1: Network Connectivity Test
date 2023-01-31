@@ -1,0 +1,11 @@
+# Lab 1-1 - Network Connectivity Testing\
+
+ ##Summary:
+ 
+In this lab, I ran various commands to ping ips and websites, access the traceroute, and queryed the Domain Name System (DNS) of various websites such as www.google.com, bing.com, and www.champlain.edu
+
+##Questions: 
+
+- Commands I performed in this lab included 'ipconfig', 'ipconfig /all', 'ping 192.168.1.250' and 'ping 192.168.1.139', 'ping www.google.com', 'ping www.champlain.edu', 'tracert www.google.com', 'nslookup bing.com' and 'nslookup www.champlain.edu'. Commands I will defintely be using in the future are all three of these. Maybe not the specific commands of the websites, but pinging the ips and using nslookup and tracert, especially in networking. 
+
+- I fortunately didn't run into that much trouble in the lab, the only problem I got led to was not recieving any packets when I pinged Jack Clark's IP. But I did recieve packets from everything else, so maybe it was a problem on his end. 
