@@ -1,0 +1,11 @@
+Lab 2-1: Intro To Packet Tracer and Deploying/Pinging Devices
+
+Summary:
+  In this lab, I worked with a program called Cicso Packet Tracer. In this program, I created a simulation of what it is like to deploy and cable PCs to Switches. After doing this, I had to ping wihtin the packet tracer. Which was clicking on PC0 and opening the Config tab in a window that appeared. After that, I chose an option called 'FastEthernet0' in which I then put the IP address '192.168.3.100' and the Subnet Mask '255.255.255.0' and then I repeated this process for PC1 but instead of the IP being '192.168.3.100' it was '192.168.3.200'. I then went back to the PC0 window and clicked on the Command Prompt Button. I then typed the command 'ping 192.168.3.200'. I then saw that PC0 sent four packets to PC1 and I saw replies from PC1. 
+ 
+ Questions:
+ - Commands I used were just 'ping 192.168.3.200' which allowed PC1 to recieve packets from PC0 and send replies to PC0. 
+ 
+ - I did find any problems with this lab at all, I found it very easy to understand and using the Cisco Packet Tracer software was easy
+ 
+ 
