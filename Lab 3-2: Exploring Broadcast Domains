@@ -1,0 +1,6 @@
+Summary:
+In this lab, I pinged Google's DNS server in hopes of finding if the ICMP protocol would make a difference in seeing if the MAC addresses were different from last lab, but unfortunately they weren't. I also worked with a partner to see how Source and Destination MAC addresses are interchangable and are switched around from each other. So for example, my destination was his source and his destination was my source.
+
+Other Questions:
+- Commands I used in this lab were "ping 8.8.8.8", "ping 10.0.16.44" and "ping 10.0.16.32".
+- In this lab I didn't really have any problems, the only problem I kinda had was I had to make sure I had eth0 selected in Wireshark because it wouldn't record. But other then that, everything was fine in the lab.
