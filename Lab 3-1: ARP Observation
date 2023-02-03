@@ -1,0 +1,6 @@
+Summary:
+In this lab, I observed ARPs and how they requested and responded with each other. What MAC addresses they used, what IPs they used. Also looked at what If I were to respond to another MAC address with an ARP. I also created a diagram of how an ARP works and how to make a display filter for ARPs. I concluded this lab by pinging Google's DNS server and seeing how an ARP from my computer would respond to an Google DNS Server IP address. It actually responded from my other IP address instead of a MAC address from Google which I thought was really cool.
+
+Other Questions:
+- Commands I used in this lab included "arp -d" and "netsh interface ip delete arpcache", "ping 10.0.16.2", "ping 10.0.16.36", and "ping 8.8.8.8". "arp -d" and "netsh interface ip delete arpcache" were all new to me and I thought it was fun to mess around with them. But they were also confusing at times to use. 
+- A problem I did run into was towards the end of the lab where wireshark would refuse to pick up any pings especially from 8.8.8.8, but I restarted it a couple times and it worked whcih was nice. 
