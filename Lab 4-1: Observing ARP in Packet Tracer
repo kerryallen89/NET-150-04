@@ -1,0 +1,6 @@
+Summary:
+In this lab, we used Cisco Packet Tracer to observe ARPs. With this we connected 4 computers to a switch and pinged two computers through the switch. We also had to create a table listing all of the MAC addresses and what port they fell into.
+
+Questions:
+- Commands I used in this lab were "ping PC1s IP", "ping PC2s IP", "ping PC3s IP", "arp -a", and "show mac-address-table"
+- A problem I had in this lab was not being able to put all of the MAC addresses in one table when in CLI. It was split into two because the first table didn't show the MAC address for port Fa0/13 but did on the second attempt. But on the second attempt it only showed the MAC address for Fa0/13 and not for any other one. But in the end I got all of them.
