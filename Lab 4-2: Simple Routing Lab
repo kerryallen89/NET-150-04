@@ -1,0 +1,12 @@
+Lab 4-2: Simple Routing Lab
+
+Summary:
+ - In this lab, I set up a multilayer switch between 3 PCs and ping each computer through the multilayer switch. I would also set up IP addresses, subnet masks, and default gateways for each PC. 
+ 
+ Lab questions:
+ - What is a subnet mask? - a 32-bit address that segregates an IP address into network bits that identify the network and host bits that identify the host device operating on that network.
+ - What is a Default Gateway - the path used to pass information when the device doesn't know where the destination is. More directly, a default gateway is a router that connects your host to remote network segments.
+ 
+ Problems I had with Lab:
+ - Pinging PC1 from PC0 with simulation panel recording wouldn't show the ping going to PC1 despite the ping being successful. 
+ - Pinging would often freeze kinda at the end of the lab and then work. But it never recorded in Simulation Panel. I was able to get two recording on simulation panel before it broke. 
