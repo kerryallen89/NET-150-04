@@ -1,0 +1,10 @@
+Lab 4-3: Simple 2-Network Packet Tracer Lab
+
+Summary:
+-In this lab, I used Cisco Packet Tracer to set up a 2-network simulation where I had a laptop on one side of a router connect to the server on the other side of the router. I then pinged the server fromm the laptop and saw that there was a successful ping. After sending an HTTP packet to the server from the laptop. I recorded the source and destination MAC/IP addresses in the Inbound PDU details tab. After doing that. I was told to turn off and on the router, and to then take a screenshot of the IP addresses of both FastEthernet 0/0 and 0/1. 
+
+Lab questions:
+- The use of "Simulation Mode" in Cisco Packet Tracer is very useful as it gives you a controlled environment to be able to see how packets being sent and recieved work. 
+- To save configurations on routers. you use the command copy running-config startup-config or simply (copy run start) 
+- A useful trick which I will be using alot is how to get rid of the red errors on the topology is to go to router -> Config -> FastEthernet 0/0 or 0/1 or whatever one -> enable Port Status
+- Another useful tip is to enable Port Lablels. To do this all you have to do is Options -> Always Show Port Labels in Logica Workspace
