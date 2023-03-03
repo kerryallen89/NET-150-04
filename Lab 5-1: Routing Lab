@@ -1,0 +1,8 @@
+Lab  5-1: Routing Lab
+
+Summary:
+In this lab, I built a model with an empty swtich and router. I then configured it by adding FastEthernet Ports onto each one. I then connected a network of PCs to a switch and then to a router. I then connected a PC that was pinged to a PC on the network. Finally, I then put a sniffer between a hub and the router which picked up traffic from the ping.
+
+Questions:
+- Commands I used were pinging the router that was labeled "Ping Me". Other then that, it was mostly trying to figure out how to build the model. 
+- Problems I had were losing a packet when I tried pinging the PC for the first time, but then after the second attempt it worked. I also had a tiny bit of trouble trying to add ports but I figured it out pretty quickly after.
