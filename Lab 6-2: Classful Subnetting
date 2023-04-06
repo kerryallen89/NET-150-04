@@ -1,0 +1,6 @@
+Lab 6-2: Classful Subnetting
+
+Summary: In this lab, I utilized /27 CIDR (255.255.255.224) and I made three seperate networks. I then connected those networks together and had PCs from each one ping each other to confirm they worked. 
+
+Deliverable 3:
+- Some difficulties I had with this lab was trying to make them ping. I had to switch a bunch of the ports around but eventually got it to work. 
