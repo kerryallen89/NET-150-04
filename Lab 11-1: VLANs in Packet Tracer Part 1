@@ -1,0 +1,10 @@
+Lab 11-1: VLANs in Packet Tracer Pt. 1
+
+VLANs on a switch:
+- Creating VLANs on a switch was pretty easy as it involved creating a VLAN number and name for all three VLANs (ENG, MKT, and ACT) using 10, 20, and 30 as the numbers.
+
+Configuring an Interface as an Access Port:
+- Doing this part was really easy as you had to set up which VLAN the port was apart of on all of the switches. So for Fa0/1 it was 10, for Fa0/2 it was 20, and for Fa0/3 it was 30. 
+
+Configuring an Interface as a Trunk Port:
+- Doing this part was also easy as you needed to select all the VLANs that were going to be apart of connecting the switches together. It was pretty much the same for the first and third floor with only having to configure Gig0/1, but for the second floor you had to configure Gig0/2 port.
