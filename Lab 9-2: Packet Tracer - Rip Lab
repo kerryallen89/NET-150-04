@@ -1,0 +1,5 @@
+Lab 9-2: RIP Lab
+
+- While I was configuring RIPv2 on Packet Tracer, putting the IPs in the console was easy as well as figuring out which version they were. The one thing I did struggle with during this assignment was trying to figure out which RIP Route Packet was the right one, but eventually figured it out when I looked at the next hop for the packet. 
+
+- Troubleshooting I did was making sure the pcs could all ping each other and fining out which was the right packet destinations and sources
